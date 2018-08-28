@@ -1,0 +1,23 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "Basic implementation of O auth node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish9342/Oauth_node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "oauth"
+  ],
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish9342/Oauth_node/issues"
+  },
+  "homepage": "https://github.com/ashish9342/Oauth_node#readme"
+}
